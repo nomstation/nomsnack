@@ -1,2 +1,3 @@
 # nomsnack
-nom's playground
+nom's playground for learning machine learning packages
+
